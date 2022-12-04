@@ -1,0 +1,6 @@
+.bgimage{
+    background: url('/images/Hill2.jpg');
+    background-size: cover;
+    width: 900px;
+    height: 1000px;
+}
